@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm Maye, Software Developer based in Nairobi, Kenya. My Tech Stack is Fullstack(FE-Heavy).
+I'm Maye, Software Developer(Fullstack, FE-Heavy) based in Nairobi, Kenya.
