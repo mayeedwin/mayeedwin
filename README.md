@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm Maye, Software Developer based in Nairobi, Kenya.
+I'm Maye, Software Engineer based in Nairobi, Kenya.
